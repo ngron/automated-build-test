@@ -1,2 +1,2 @@
-FROM dockersamples/statics-site
+FROM dockersamples/static-site
 ENV AUTHOR="ngron"
